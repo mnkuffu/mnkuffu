@@ -34,6 +34,4 @@ I am continuously improving my skills and learning best development practices to
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=mnkuffu&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" /> 
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnkuffu)](https://github.com/mnkuffu/github-readme-stats)
