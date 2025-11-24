@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/demo/?pause=1050&color=CFC9F8&center=true&lines=Shaping+the+Web%2C+One+Layer+at+a+Time" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1050&color=CFC9F8&center=true&width=435&lines=Shaping+the+Web%2C+One+Layer+at+a+Time" alt="Typing SVG" /></a>
 </p>
 <h1 align="center"> 👋 Hi, I'm Kateryna Andriiak</h1>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
