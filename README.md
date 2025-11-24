@@ -33,7 +33,4 @@ I am continuously improving my skills and learning best development practices to
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mnkuffu&show_icons=true&theme=cobalt2&hide_border=true" />
-  <img src="" />
-</p>
+  (https://github-readme-stats.vercel.app/api?username=mnkuffu&show_icons=true&theme=radical)"
