@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1050&color=CFC9F8&center=true&width=700&lines=Shaping+the+Web%2C+One+Layer+at+a+Time" alt="Typing SVG" /></a>
 </p>
--------------------------------------------------------------------------------------------------------------------------------------------------------
-<h2 align="center"> 👋 Hi, I'm Kateryna Andriiak - Junior Fullstack Developer (HTML5, CSS3, JS, React)</h2>
+
+<h2 align="center"> 👋 Hi, I'm Kateryna - Junior Fullstack Developer (HTML5, CSS3, JS, React)</h2>
 
 <div align="center">
 <h3 >🔍 About Me: </h3>
@@ -16,7 +16,7 @@ I am continuously improving my skills and learning best development practices to
   <img src="https://skillicons.dev/icons?i=html,css,figma,github,js,git,vscode,nodejs,react,discord,visualstudio,vite,vercel" />
 </div>
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <div align="center">
 <h3 align="center">🗣️ Languages: </h3>
