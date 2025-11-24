@@ -34,10 +34,4 @@ I am continuously improving my skills and learning best development practices to
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img width="45%"
-       alt="Kateryna's GitHub stats"
-       src="https://github-readme-stats.vercel.app/api?username=mnkuffu&show_icons=true&bg_color=00000000&title_color=ff69b4&icon_color=ff69b4&text_color=d291ff" />
-  
-  <img width="45%"
-       alt="Top Langs"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnkuffu&layout=compact&bg_color=00000000&title_color=ff69b4&text_color=d291ff" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=[mnkuffu]&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
