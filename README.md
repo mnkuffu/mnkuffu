@@ -16,7 +16,7 @@ I am continuously improving my skills and learning best development practices to
   <img src="https://skillicons.dev/icons?i=html,css,figma,github,js,git,vscode,nodejs,react,discord,visualstudio,vite,vercel" />
 </div>
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
 <h3 align="center">🗣️ Languages: </h3>
