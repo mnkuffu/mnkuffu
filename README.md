@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=сас9а8&center=true&vCenter=true&width=435&lines=Shaping+the+Web+,+One+Layer+at+a+Time;Turning+ChAoS+into+symmetry;Privacy+Focused+Digital+Craftsman;Optimize+what+must+never+break;Scripting+Everything+That+Moves" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=сас9а8&center=true&vCenter=true&width=435&lines=Shaping+the+Web+,+One+Layer+at+a+Time;Turning+ChAoS+into+symmetry;Privacy+Focused+Digital+Craftsman;Optimize+what+must+never+break;Scripting+Everything+That+Moves" alt="Typing SVG](https://readme-typing-svg.demolab.com/demo/?pause=1050&color=CFC9F8&center=true&lines=Shaping+the+Web%2C+One+Layer+at+a+Time)" />
 </p>
 <h1 align="center"> 👋 Hi, I'm Kateryna Andriiak</h1>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
