@@ -28,9 +28,13 @@ I am continuously improving my skills and learning best development practices to
 <p align="center">
   <a href="mailto:mnkuffu66@gmail.com"><img src="https://img.shields.io/badge/Email-00001b?style=soft-square&logo=gmail&logoColor=b47df4" /></a>
   <a href="www.linkedin.com/in/kateryna-andriiak"><img src="https://img.shields.io/badge/LinkedIn-00001b?style=soft-square&logo=linkedin&logoColor=b47df4" /></a>
+  <a href="https://t.me/mnkuffu"><img src="https://img.shields.io/badge/Telegram-00001b?style=soft-square&logo=telegram&logoColor=b47df4" /></a>
 </p>
 </div>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-  (https://github-readme-stats.vercel.app/api?username=mnkuffu&show_icons=true&theme=radical)"
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mnkuffu&show_icons=true&theme=cobalt2&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnkuffu&theme=cobalt2&hide_border=true" />
+</p>
