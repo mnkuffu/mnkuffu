@@ -22,7 +22,7 @@ I am continuously improving my skills and learning best development practices to
 <h3 align="center">🗣️ Languages: </h3>
 
 ![English](https://img.shields.io/badge/English-A2-00001b?style=soft-square&labelColor=00001b&color=b47df4) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-00001b?style=soft-square&labelColor=00001b&color=b47df4) ![Polish](https://img.shields.io/badge/Polish-A2-00001b?style=soft-square&labelColor=00001b&color=b47df4)
-
+####
 <h3 align="center">📫 How to reach me:</h3>
 
 <p align="center">
